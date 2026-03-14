@@ -1,0 +1,37 @@
+{
+<<<<<<< HEAD
+  "name": "practice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+=======
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node.js project with ESLint + Prettier + Express + Lodash",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint . --fix"
+>>>>>>> 839b7891a654b93dbedc9e9b303a9e4978e3e0dd
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+<<<<<<< HEAD
+  "type": "commonjs"
+=======
+  "dependencies": {
+    "express": "^5.2.1",
+    "lodash": "^4.17.23"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
+    "prettier": "^3.8.1"
+  }
+>>>>>>> 839b7891a654b93dbedc9e9b303a9e4978e3e0dd
+}
